@@ -38,4 +38,4 @@ else if (BMI >= 30 && BMI <= 39.9){
 }
 else  { 
     alert(`Với chiều cao ${heightJs}m, cân nặng ${weightJs}kg thì chỉ số BMI sẽ là ${BMI} vậy bạn thuộc loại "Béo phì độ III" -WHO`);
-};
+}
